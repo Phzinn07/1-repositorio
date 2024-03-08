@@ -1,15 +1,1 @@
-h1{
-
-text-align: center;
-
-
-}
-
-body{
-    background-color: black;
-}
-
-img{
-    width: 300px;
-    height: auto;
-}
+<h1 style="color:blue;">A Blue Heading</h1>
