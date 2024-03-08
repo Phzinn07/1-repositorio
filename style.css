@@ -9,6 +9,6 @@ image-resolution: 1800px;height: 1200;
 
 }
 img {
-    width: 200px!important;
-    height: 200px!important;
+    width: auto!important;
+    height: auto!important;
     }
