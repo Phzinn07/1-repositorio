@@ -8,7 +8,7 @@ body{
 image-resolution: 1800px;height: 1200;
 
 }
-img {
-    width: 100!important;
-    height: auto!important;
+div#imagens img {
+    width: 100px!important;
+    height: 50px!important;
     }
