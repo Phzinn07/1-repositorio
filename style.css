@@ -8,3 +8,7 @@ body{
 image-resolution: 1800px;height: 1200;
 
 }
+img {
+    width: 800px!important;
+    height: 600px!important;
+    }
